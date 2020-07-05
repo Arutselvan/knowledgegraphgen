@@ -1,1 +1,1 @@
-# mindmapgen
+# knowledgegraphgen
